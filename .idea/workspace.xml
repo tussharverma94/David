@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b09f950-efa9-4cdf-8bca-bb842f4fbf4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jarvis" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bFFOMkeqiP2EnIdRAyvcpaGNtP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../telegrambot" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tussh\PycharmProjects\jarvis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="call_script" type="PythonConfigurationType" factoryName="Python">
+      <module name="jarvis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/call_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="jarvis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_file" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="jarvis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_google" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="jarvis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_google.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="jarvis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="whatsapp" type="PythonConfigurationType" factoryName="Python">
+      <module name="jarvis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whatsapp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="youtube_search" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="jarvis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/youtube_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.call_script" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.search_file" />
+      <item itemvalue="Python.search_google" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.whatsapp" />
+      <item itemvalue="Python.youtube_search" />
+    </list>
+  </component>
+  <component name="SearchEverywhereConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="ClassSearchEverywhereContributor" />
+    </file-type-list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b09f950-efa9-4cdf-8bca-bb842f4fbf4a" name="Default Changelist" comment="" />
+      <created>1588219901191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588219901191</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588335881366">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588335881366" />
+    <state x="480" y="93" key="FileChooserDialogImpl" timestamp="1588494829923">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="480" y="93" key="FileChooserDialogImpl/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588494829923" />
+    <state x="2341" y="99" key="FileChooserDialogImpl/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588357490073" />
+    <state width="1259" height="218" key="GridCell.Tab.0.bottom" timestamp="1588451915003">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="218" key="GridCell.Tab.0.bottom/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588417065920" />
+    <state width="1259" height="83" key="GridCell.Tab.0.bottom/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588414907432" />
+    <state width="1259" height="218" key="GridCell.Tab.0.bottom/0.0.1280.688@0.0.1280.688" timestamp="1588451915003" />
+    <state width="1259" height="218" key="GridCell.Tab.0.center" timestamp="1588451915003">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="218" key="GridCell.Tab.0.center/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588417065920" />
+    <state width="1259" height="83" key="GridCell.Tab.0.center/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588414907432" />
+    <state width="1259" height="218" key="GridCell.Tab.0.center/0.0.1280.688@0.0.1280.688" timestamp="1588451915003" />
+    <state width="1259" height="218" key="GridCell.Tab.0.left" timestamp="1588451915003">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="218" key="GridCell.Tab.0.left/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588417065920" />
+    <state width="1259" height="83" key="GridCell.Tab.0.left/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588414907432" />
+    <state width="1259" height="218" key="GridCell.Tab.0.left/0.0.1280.688@0.0.1280.688" timestamp="1588451915003" />
+    <state width="1259" height="218" key="GridCell.Tab.0.right" timestamp="1588451915003">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="218" key="GridCell.Tab.0.right/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588417065920" />
+    <state width="1259" height="83" key="GridCell.Tab.0.right/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588414907432" />
+    <state width="1259" height="218" key="GridCell.Tab.0.right/0.0.1280.688@0.0.1280.688" timestamp="1588451915003" />
+    <state width="1259" height="209" key="GridCell.Tab.1.bottom" timestamp="1588336368679">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="209" key="GridCell.Tab.1.bottom/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588336368679" />
+    <state width="1259" height="209" key="GridCell.Tab.1.center" timestamp="1588336368679">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="209" key="GridCell.Tab.1.center/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588336368679" />
+    <state width="1259" height="209" key="GridCell.Tab.1.left" timestamp="1588336368679">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="209" key="GridCell.Tab.1.left/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588336368679" />
+    <state width="1259" height="209" key="GridCell.Tab.1.right" timestamp="1588336368679">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="209" key="GridCell.Tab.1.right/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588336368679" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1588350110630">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588350110630" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1588413179885">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588413179885" />
+    <state x="303" y="9" width="672" height="678" key="search.everywhere.popup" timestamp="1588413209743">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="303" y="9" width="672" height="678" key="search.everywhere.popup/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588413209743" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
